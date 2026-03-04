@@ -1,0 +1,32 @@
+{
+    "ManifestVersion": 3,
+    "Date": "2026-03-04T00:00:00.0000000Z",
+    "News": {
+        "Blogs": []
+    },
+    "Administrators": [],
+    "Heroes": [],
+    "SentryUrl": "",
+    "DatabaseUrl": "",
+    "FeedbackUrl": "",
+    "ReportUrl": "",
+    "LeaderboardUrl": "",
+    "BenchmarkUrl": "",
+    "AccountUrl": "",
+    "Servers": {
+        "Official": [
+            {
+                "Address": "167.114.67.80",
+                "Port": 28015,
+                "Tags": ""
+            }
+        ],
+        "Banned": []
+    },
+    "Metadata": {
+        "LoadingScreens": [],
+        "BlockedServers": [],
+        "TrophyPages": [],
+        "RadioStations": []
+    }
+}
