@@ -14,13 +14,7 @@
     "BenchmarkUrl": "",
     "AccountUrl": "",
     "Servers": {
-        "Official": [
-            {
-                "Address": "167.114.67.80",
-                "Port": 28015,
-                "Tags": ""
-            }
-        ],
+        "Official": [],
         "Banned": []
     },
     "Metadata": {
